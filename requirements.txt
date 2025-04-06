@@ -2,3 +2,4 @@ dash==2.9.3
 plotly==5.14.1
 numpy>=1.26.0
 matplotlib>=3.7.1
+gunicorn==21.2.0
